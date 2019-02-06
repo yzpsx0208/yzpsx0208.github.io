@@ -1,0 +1,38 @@
+.member_wrap{
+	/*border: 1px solid black;*/
+	margin:40px auto;
+
+
+}
+.member_title{
+	margin-bottom: 40px;
+}
+
+.assistant_professor{
+	position: relative;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width:30%;
+}
+
+
+.masters_student{
+	/*border: 1px solid black;*/
+	position: relative;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width:40%;
+}
+
+.graduated_student{
+	/*border: 1px solid black;*/
+	position: relative;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width:30%;
+
+}
+
